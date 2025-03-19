@@ -1,16 +1,33 @@
-## Hi there 👋
+## # My Portfolio
 
-<!--
-**sebrinamusbah/sebrinamusbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal portfolio! This website showcases my skills, projects, and experiences as a developer. It serves as an online resume and a way for potential employers, collaborators, and clients to learn more about me and my work.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m sebrina musbah, a passionate web developer
+Here, you can explore my work, including:
+- Web Development
+- UI/UX Design
+- JavaScript, HTML, CSS, React, Node.js, and more
+
+## Features
+
+- **About Section**: Learn more about my background, skills, and experiences.
+- **Project Showcases**: Browse through various projects that demonstrate my abilities.
+- **Contact Information**: A way to get in touch for opportunities, collaborations, or questions.
+
+## Technologies Used
+
+This portfolio is built using:
+- **HTML**
+- **CSS** (or SCSS/SASS if you use them)
+## How to View
+
+To view my portfolio live, you can visit: [Your live website URL on Vercel/Netlify/etc.]
+
+Alternatively, you can clone this repository and run it locally:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/sebrinamusbah/portfolio.git
+
+
